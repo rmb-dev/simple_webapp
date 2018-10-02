@@ -3,7 +3,7 @@ $(document).ready(function(){
 			//on mouse hover trigger this effect
             function(){
                 $(this).animate({
-                    marginTop: "-=3%",
+                    marginTop: "-=5%",
                 },200);
             },
 
@@ -15,5 +15,3 @@ $(document).ready(function(){
             }
         );
     });
-
-
